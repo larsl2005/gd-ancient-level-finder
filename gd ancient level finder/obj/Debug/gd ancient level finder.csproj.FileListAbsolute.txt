@@ -1,0 +1,9 @@
+C:\Users\larsl2005\source\repos\gd ancient level finder\gd ancient level finder\bin\Debug\gd ancient level finder.exe.config
+C:\Users\larsl2005\source\repos\gd ancient level finder\gd ancient level finder\bin\Debug\gd ancient level finder.exe
+C:\Users\larsl2005\source\repos\gd ancient level finder\gd ancient level finder\bin\Debug\gd ancient level finder.pdb
+C:\Users\larsl2005\source\repos\gd ancient level finder\gd ancient level finder\obj\Debug\gd ancient level finder.csprojAssemblyReference.cache
+C:\Users\larsl2005\source\repos\gd ancient level finder\gd ancient level finder\obj\Debug\gd_ancient_level_finder.Form1.resources
+C:\Users\larsl2005\source\repos\gd ancient level finder\gd ancient level finder\obj\Debug\gd_ancient_level_finder.Properties.Resources.resources
+C:\Users\larsl2005\source\repos\gd ancient level finder\gd ancient level finder\obj\Debug\gd ancient level finder.csproj.GenerateResource.cache
+C:\Users\larsl2005\source\repos\gd ancient level finder\gd ancient level finder\obj\Debug\gd ancient level finder.exe
+C:\Users\larsl2005\source\repos\gd ancient level finder\gd ancient level finder\obj\Debug\gd ancient level finder.pdb
