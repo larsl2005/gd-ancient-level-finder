@@ -5,8 +5,9 @@ just enter a minimum and maximum id and press start, it will search for levels w
 
 
 TODO:
-make it support 1.9 private servers (DONE, COMING IN NEW UPDATE)
+make it support 1.9 private servers (DONE, COMING IN NEW UPDATE).
 make it so you can hide the debug output.
+make a cooldown option the sevrer doesnt block your connection.
 make the code and comments not a pain in the ass todo.
 
 ADITIONAL NOTES:
